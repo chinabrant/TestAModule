@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'TestAModule_Example' do
   pod 'TestAModule', :path => '../'
+  
 
   target 'TestAModule_Tests' do
     inherit! :search_paths

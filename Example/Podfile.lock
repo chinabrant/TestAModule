@@ -1,0 +1,16 @@
+PODS:
+  - TestAModule (0.1.0)
+
+DEPENDENCIES:
+  - TestAModule (from `../`)
+
+EXTERNAL SOURCES:
+  TestAModule:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TestAModule: f41b5dfdefc7bd97e2c44f3597bb5705275f6166
+
+PODFILE CHECKSUM: 870a0d1d24d45e106627dd309a8829f41542405a
+
+COCOAPODS: 1.2.0

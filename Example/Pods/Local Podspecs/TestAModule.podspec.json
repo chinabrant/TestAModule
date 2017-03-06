@@ -1,0 +1,22 @@
+{
+  "name": "TestAModule",
+  "version": "0.1.0",
+  "summary": "A short description of TestAModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sjwu1234@gmail.com/TestAModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sjwu1234@gmail.com": "812662025@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/sjwu1234@gmail.com/TestAModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestAModule/Classes/**/*"
+}
