@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-                        组件化测试工程
+                        TestAModule iOS 组件化测试model 组件化测试工程
                        DESC
 
   s.homepage         = 'https://github.com/chinabrant/TestAModule'
