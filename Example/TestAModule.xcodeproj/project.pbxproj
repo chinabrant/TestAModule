@@ -28,6 +28,7 @@
 		94295B571E6D5160003ED523 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 94295B541E6D5160003ED523 /* .gitkeep */; };
 		94295B581E6D5160003ED523 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 94295B551E6D5160003ED523 /* ReplaceMe.m */; };
 		94295B5B1E6D51A5003ED523 /* TestAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94295B5A1E6D51A5003ED523 /* TestAViewController.m */; };
+		94295B6A1E6D6999003ED523 /* Target_TestA.m in Sources */ = {isa = PBXBuildFile; fileRef = 94295B691E6D6999003ED523 /* Target_TestA.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,8 @@
 		94295B551E6D5160003ED523 /* ReplaceMe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		94295B591E6D51A5003ED523 /* TestAViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestAViewController.h; sourceTree = "<group>"; };
 		94295B5A1E6D51A5003ED523 /* TestAViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestAViewController.m; sourceTree = "<group>"; };
+		94295B681E6D6999003ED523 /* Target_TestA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Target_TestA.h; sourceTree = "<group>"; };
+		94295B691E6D6999003ED523 /* Target_TestA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Target_TestA.m; sourceTree = "<group>"; };
 		A69AA36A2167E7DA95A5E9E6 /* Pods-TestAModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestAModule_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestAModule_Example/Pods-TestAModule_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D7E538F5F73C30673D98DC14 /* TestAModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TestAModule.podspec; path = ../TestAModule.podspec; sourceTree = "<group>"; };
 		D874237309C8954C25385E54 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -220,6 +223,8 @@
 				94295B551E6D5160003ED523 /* ReplaceMe.m */,
 				94295B591E6D51A5003ED523 /* TestAViewController.h */,
 				94295B5A1E6D51A5003ED523 /* TestAViewController.m */,
+				94295B681E6D6999003ED523 /* Target_TestA.h */,
+				94295B691E6D6999003ED523 /* Target_TestA.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -437,6 +442,7 @@
 			files = (
 				94295B5B1E6D51A5003ED523 /* TestAViewController.m in Sources */,
 				6003F59E195388D20070C39A /* BRAppDelegate.m in Sources */,
+				94295B6A1E6D6999003ED523 /* Target_TestA.m in Sources */,
 				6003F5A7195388D20070C39A /* BRViewController.m in Sources */,
 				94295B581E6D5160003ED523 /* ReplaceMe.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
